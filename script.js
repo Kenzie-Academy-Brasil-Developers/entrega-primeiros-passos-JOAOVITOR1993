@@ -10,10 +10,10 @@ let precoProdutoFeijao = parseFloat(prompt("Digite o valor do Feijão"))
 let precoProdutoVinho = parseFloat(prompt("Digite o valor do Vinho")) 
 
 let quantidadeRefrigerante = parseInt(prompt("Quantas Unidades de Refrigerante?"))
-let quantidadeMacarrao = parseInt(prompt("Quantas Unidades de Macarrao?"))
+let quantidadeMacarrao = parseInt(prompt("Quantas Unidades de Macarrão?"))
 let quantidadeErvilha = parseInt(prompt("Quantas Unidades de Ervilha?"))
 let quantidadeArroz = parseInt(prompt("Quantas Unidades de Arroz?"))
-let quantidadeFeijao = parseInt(prompt("Quantas Unidades de Feijao?"))
+let quantidadeFeijao = parseInt(prompt("Quantas Unidades de Feijão?"))
 let quantidadeVinho = parseInt(prompt("Quantas Unidades de Vinho?")) 
 
 let totalRefrigerante = precoProdutoRefrigerante * quantidadeRefrigerante
